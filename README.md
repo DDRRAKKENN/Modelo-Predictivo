@@ -33,3 +33,14 @@ Después de encontrar las tendencias ocultas, los patrones, y construir un model
 Las mismas tambien se pueden buscar y descargar desde [pypi.org](https://pypi.org/).
 
 Dataset incluido en este mismo repositorio para ir llevandolo paso a paso.
+
+## Algunas capturas de imagenes del proyecto:
+
+### Entendimiento de conjunto de datos
+![Entendimiento de conjunto de datos](./img/entendimiento%20de%20conjunto%20de%20datos.JPG)
+
+### Analisis bivariado
+![Analisis bivariado](./img/analisis%20bivariado.JPG)
+
+### Modelos de machine learning
+![Modelos de machine learning](./img/modelos%20de%20machine%20learning.JPG)
